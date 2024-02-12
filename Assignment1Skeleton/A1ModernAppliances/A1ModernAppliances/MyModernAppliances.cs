@@ -13,7 +13,12 @@ namespace ModernAppliances
     {
         /// <summary>
         /// Option 1: Performs a checkout
+        /// This method makes the user enter the appliance item number,
+        /// then we can find the appliance from the list using a foreach loop 
+        /// and appliance can be checked out also if it is unsuccessful the user is notified.
         /// </summary>
+        /// <summary>
+
         /// Feb 11, done by Alen
         public override void Checkout()
         {
@@ -78,8 +83,11 @@ namespace ModernAppliances
             // Write "The appliance is not available to be checked out."
         }
 
-        /// <summary>
         /// Option 2: Finds appliances
+        /// This method prompts the user to enter a brand and searches for appliances in the
+        /// list of loaded appliances whose brand matches the entered brand. The comparison
+        /// is case-insensitive to ensure accurate results. The found appliances are then
+        /// displayed using the DisplayAppliancesFromList method.
         /// </summary>
         /// Feb 11, done by Zaid
         public override void Find()
