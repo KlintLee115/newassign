@@ -1,0 +1,16 @@
+D:\oop2\newassign\Assignment1Skeleton\A1ModernAppliances\A1ModernAppliances\bin\Debug\net6.0\ModernAppliances.exe
+D:\oop2\newassign\Assignment1Skeleton\A1ModernAppliances\A1ModernAppliances\bin\Debug\net6.0\appliances.txt
+D:\oop2\newassign\Assignment1Skeleton\A1ModernAppliances\A1ModernAppliances\bin\Debug\net6.0\ModernAppliances.deps.json
+D:\oop2\newassign\Assignment1Skeleton\A1ModernAppliances\A1ModernAppliances\bin\Debug\net6.0\ModernAppliances.runtimeconfig.json
+D:\oop2\newassign\Assignment1Skeleton\A1ModernAppliances\A1ModernAppliances\bin\Debug\net6.0\ModernAppliances.dll
+D:\oop2\newassign\Assignment1Skeleton\A1ModernAppliances\A1ModernAppliances\bin\Debug\net6.0\ModernAppliances.pdb
+D:\oop2\newassign\Assignment1Skeleton\A1ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.GeneratedMSBuildEditorConfig.editorconfig
+D:\oop2\newassign\Assignment1Skeleton\A1ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.AssemblyInfoInputs.cache
+D:\oop2\newassign\Assignment1Skeleton\A1ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.AssemblyInfo.cs
+D:\oop2\newassign\Assignment1Skeleton\A1ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.csproj.CoreCompileInputs.cache
+D:\oop2\newassign\Assignment1Skeleton\A1ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.sourcelink.json
+D:\oop2\newassign\Assignment1Skeleton\A1ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.dll
+D:\oop2\newassign\Assignment1Skeleton\A1ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\refint\ModernAppliances.dll
+D:\oop2\newassign\Assignment1Skeleton\A1ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.pdb
+D:\oop2\newassign\Assignment1Skeleton\A1ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.genruntimeconfig.cache
+D:\oop2\newassign\Assignment1Skeleton\A1ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\ref\ModernAppliances.dll

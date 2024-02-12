@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ModernAppliances")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7910ced7adc54f027344cb15cc9096b5eea21ef2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fb8752adb223282575f50c616cc7b3677f2da90b")]
 [assembly: System.Reflection.AssemblyProductAttribute("ModernAppliances")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ModernAppliances")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
