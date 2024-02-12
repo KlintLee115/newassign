@@ -14,6 +14,7 @@ namespace ModernAppliances
         /// <summary>
         /// Option 1: Performs a checkout
         /// </summary>
+        /// Feb 11, done by Alen
         public override void Checkout()
         {
             // Write "Enter the item number of an appliance: "
@@ -80,6 +81,7 @@ namespace ModernAppliances
         /// <summary>
         /// Option 2: Finds appliances
         /// </summary>
+        /// Feb 11, done by Zaid
         public override void Find()
         {
             // Write "Enter brand to search for:"
@@ -111,7 +113,12 @@ namespace ModernAppliances
 
         /// <summary>
         /// Displays Refridgerators
+        /// This method presents the user with options to filter refrigerators based on the
+        /// number of doors. It prompts the user to enter the desired number of doors and then
+        /// searches through the list of loaded appliances to find refrigerators that match
+        /// the specified criteria. The found refrigerators are then displayed.
         /// </summary>
+        /// Feb 11, done by Jaimin
         public override void DisplayRefrigerators()
         {
             // Write "Possible options:"
@@ -172,9 +179,13 @@ namespace ModernAppliances
 
         /// <summary>
         /// Displays Vacuums
+        /// This method guides the user through selecting a vacuum grade and voltage option.
+        /// It then filters and displays a list of vacuum appliances matching the specified grade
+        /// and voltage criteria. The user is prompted to enter grades (Any, Residential, or Commercial)
+        /// and voltages (Any, 18 Volt, or 24 Volt). The method validates user input and handles invalid
+        /// options gracefully, returning to the calling method in case of an error.
         /// </summary>
-        /// <param name="grade">Grade of vacuum to find (or null for any grade)</param>
-        /// <param name="voltage">Vacuum voltage (or 0 for any voltage)</param>
+        /// Feb 11, done by Klint
         public override void DisplayVacuums()
         {
             // Write "Possible options:"
@@ -251,7 +262,18 @@ namespace ModernAppliances
 
         /// <summary>
         /// Displays microwaves
+        /// This method prompts the user to enter a room type and filters the list of loaded
+        /// appliances to display only microwaves that match the entered room type. The possible
+        /// room types are:
+        /// - 0: Any (represents all room types)
+        /// - 1: Kitchen
+        /// - 2: Work site
+        /// The user is prompted to input a number corresponding to the desired room type.
+        /// The method then iterates through the list of loaded appliances and adds microwaves
+        /// with matching room types to the found list. The found appliances are displayed using
+        /// the DisplayAppliancesFromList method.
         /// </summary>
+        /// Feb 11, done by Zaid
         public override void DisplayMicrowaves()
         {
             // Write "Possible options:"
@@ -325,6 +347,8 @@ namespace ModernAppliances
         /// <summary>
         /// Displays dishwashers
         /// </summary>
+        /// Feb 11, done by Klint
+
         public override void DisplayDishwashers()
         {
             // Write "Possible options:"
@@ -409,7 +433,18 @@ namespace ModernAppliances
 
         /// <summary>
         /// Generates random list of appliances
+        /// This method prompts the user to choose a sound rating option for dishwashers.
+        /// The available sound rating options are:
+        ///   0 - Any
+        ///   1 - Quietest
+        ///   2 - Quieter
+        ///   3 - Quiet
+        ///   4 - Moderate
+        /// The user is prompted to enter the corresponding number for the desired sound rating.
+        /// The method then filters and displays dishwashers that match the selected sound rating.
+        /// If the user enters an invalid option, an error message is displayed, and the method returns.
         /// </summary>
+        /// Feb 11, done by Alen
         public override void RandomList()
         {
             // Write "Appliance Types"
